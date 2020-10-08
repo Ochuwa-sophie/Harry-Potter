@@ -1,0 +1,4 @@
+C:\Users\SObomighie\repos\Harry-Potter\src\HarryPotterBackend\obj\Debug\netcoreapp3.1\HarryPotter.csprojAssemblyReference.cache
+C:\Users\SObomighie\repos\Harry-Potter\src\HarryPotterBackend\obj\Debug\netcoreapp3.1\HarryPotter.AssemblyInfoInputs.cache
+C:\Users\SObomighie\repos\Harry-Potter\src\HarryPotterBackend\obj\Debug\netcoreapp3.1\HarryPotter.AssemblyInfo.cs
+C:\Users\SObomighie\repos\Harry-Potter\src\HarryPotterBackend\obj\Debug\netcoreapp3.1\HarryPotter.csproj.CoreCompileInputs.cache

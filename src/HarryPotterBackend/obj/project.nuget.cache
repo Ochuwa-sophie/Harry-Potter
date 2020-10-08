@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uhhHb/8mRYzucDWaIPYiLkN3jX8U40r+cl3wJXbg0wapXsMjz0+W/VKIT3HfPnU29x3IUfQ4E3rb8vVDTTwFCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SObomighie\\repos\\Harry-Potter\\src\\HarryPotterBackend\\HarryPotter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SObomighie\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
